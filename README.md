@@ -65,6 +65,8 @@ The following pieces are hollowed out versions of Devon Jones original work.
 
 They are designed to be printed directly on the flat bed of a resin printer.
 
+A little drain hole at the bottom prevents suction problems and the print to be filled with still liquid resin.
+
 - Dungeon Stone - Hollow Wall 2x2 inch
 
 [![Dungeon Stone - Hollow Wall 2x2 inch](hollow-standard-tiles/images/dungeon_stone_wall.wall.inch.2x.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_wall.wall.inch.2x.hollow.stl)

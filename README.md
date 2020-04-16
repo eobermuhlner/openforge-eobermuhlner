@@ -8,7 +8,7 @@ Extensions to the OpenForge tile set from Devon Jones.
 
 ### Floor Tiles with Circle Cutout
 
-These floor tiles have a circular cutout and are designed to be used wth a circle inset piece (see below).
+These floor tiles have a circular cutout and are designed to be used with a circle inset piece (see below).
 
 - Dungeon Stone 2x2 Tile for 2x2 inch circle
 
@@ -64,6 +64,25 @@ The magic circles are based on the excellent work of [Prognomicon](http://propno
 The following pieces are hollowed out versions of Devon Jones original work.
 
 They are designed to be printed directly on the flat bed of a resin printer.
+
+- Dungeon Stone - Hollow Wall 2x2 inch
+
+[![Dungeon Stone - Hollow Wall 2x2 inch](hollow-standard-tiles/images/dungeon_stone_wall.wall.inch.2x.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_wall.wall.inch.2x.hollow.stl)
+
+- Dungeon Stone - Hollow Corner Wall 2x2 inch
+
+[![Dungeon Stone - Hollow Corner Wall 2x2 inch](hollow-standard-tiles/images/dungeon_stone.corner.wall.inch.2x2.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone.corner.wall.inch.2x2.hollow.stl)
+
+- Dungeon Stone - Hollow Round Pillar 2x2 inch
+
+[![Dungeon Stone - Hollow Round Pillar 2x2 inch](hollow-standard-tiles/images/dungeon_stone_full_pillar.inch.1x1.round.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_full_pillar.inch.1x1.round.hollow.stl)
+
+- Dungeon Stone - Hollow Square Pillar 2x2 inch
+
+[![Dungeon Stone - Hollow Square Pillar 2x2 inch](hollow-standard-tiles/images/dungeon_stone_full_pillar.inch.1x1.square.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_full_pillar.inch.1x1.square.hollow.stl)
+
+
+
 
 
 

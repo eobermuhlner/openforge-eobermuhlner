@@ -20,25 +20,36 @@ These floor tiles have a circular cutout and are designed to be used wth a circl
 The circle insets are designed as circular pieces that fit well into a specially designed floor tile with circular cutout.
 
 - Pentagram - rough stone (2x2 inch)
-- Pentagram - smooth stone (2x2 inch)
-- Pentagram - smooth (2x2 inch)
-- Magic Circle 1 - rough stone (2x2 inch)
-- Magic Circle 2 - rough stone (2x2 inch)
-- Mosaic - smooth stone (2x2 inch)
 
 [![Pentagram - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_rough_stone.inch.2x2.stl)
 
+- Pentagram - smooth stone (2x2 inch)
+
 [![Pentagram - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_smooth_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_smooth_stone.inch.2x2.stl)
+
+- Pentagram - smooth (2x2 inch)
 
 [![Pentagram - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_smooth.inch.2x2.stl)
 
+- Magic Circle 1 - rough stone (2x2 inch)
+
 [![Magic Circle 1 - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_magic1_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_rough_stone.inch.2x2.stl)
+
+- Magic Circle 1 - smooth (2x2 inch)
 
 [![Magic Circle 1 - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_magic1_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_smooth.inch.2x2.stl)
 
+- Magic Circle 2 - rough stone (2x2 inch)
+
+- Mosaic - smooth stone (2x2 inch)
+
 [![Mosaic - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_mosaic_smooth_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_mosaic_smooth_stone.inch.2x2.stl)
 
+- Circle - rough stone (2x2 inch)
+
 [![Circle - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_rough_stone.inch.2x2.stl)
+
+- Circle - smooth (2x2 inch)
 
 [![Circle - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_smooth.inch.2x2.stl)
 
@@ -50,7 +61,7 @@ The magic circles are based on the excellent work of [Prognomicon](http://propno
 
 ## Hollow Standard Tiles
 
-The following pieces are hollowed out versions of Devon Jones original designs.
+The following pieces are hollowed out versions of Devon Jones original work.
 
 They are designed to be printed directly on the flat bed of a resin printer.
 

@@ -82,10 +82,12 @@ A little drain hole at the bottom prevents suction problems and avoids that the 
 - Dungeon Stone - Hollow Round Pillar 2x2 inch
 
 [![Dungeon Stone - Hollow Round Pillar 2x2 inch](hollow-standard-tiles/images/dungeon_stone_full_pillar.inch.1x1.round.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_full_pillar.inch.1x1.round.hollow.stl)
+![Cut in Half - Dungeon Stone - Hollow Round Pillar 2x2 inch](hollow-standard-tiles/images/cut_in_half.dungeon_stone_full_pillar.inch.1x1.round.hollow.stl.png)
 
 - Dungeon Stone - Hollow Square Pillar 2x2 inch
 
 [![Dungeon Stone - Hollow Square Pillar 2x2 inch](hollow-standard-tiles/images/dungeon_stone_full_pillar.inch.1x1.square.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_full_pillar.inch.1x1.square.hollow.stl)
+![Cut in Half - Dungeon Stone - Hollow Round Pillar 2x2 inch](hollow-standard-tiles/images/cut_in_half.dungeon_stone_full_pillar.inch.1x1.square.hollow.stl.png)
 
 
 

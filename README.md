@@ -71,7 +71,7 @@ The circle insets are designed as circular pieces that fit well into a specially
 
 - Manhole with metal bars - rough stone (2x2 inch)
 
-[![Manhole with metal bars - Rmooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_inset.manhole_bars_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.manhole_bars_rough_stone.inch.2x2.stl)
+[![Manhole with metal bars - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.manhole_bars_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.manhole_bars_rough_stone.inch.2x2.stl)
 
 
 

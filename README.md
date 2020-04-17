@@ -61,6 +61,14 @@ The circle insets are designed as circular pieces that fit well into a specially
 
 [![Magic Circle 1 - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_magic1_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_rough_stone.inch.2x2.stl)
 
+- Magic Circle 2 - smooth (2x2 inch) [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) license
+
+[![Magic Circle 2 - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_magic2_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic2_smooth.inch.2x2.stl)
+
+- Magic Circle 2 - rough stone (2x2 inch) [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) license
+
+[![Magic Circle 2 - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_magic2_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic2_rough_stone.inch.2x2.stl)
+
 
 The magic circles are based on the excellent work of [Propnomicon](http://propnomicon.blogspot.com/):
 - [Magic Circle 1](http://propnomicon.blogspot.com/2016/09/magic-circle.html)

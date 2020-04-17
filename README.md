@@ -6,6 +6,10 @@ Extensions to the OpenForge tile set from Devon Jones.
 
 [devonjones/openforge-tutorials](https://github.com/devonjones/openforge-tutorials)
 
+Most of the work here is under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
+In some cases a different license was used because it builds open work under a different original license.
+These exceptions are always linked to the specific license. 
+
 ### Floor Tiles with Circle Cutout
 
 These floor tiles have a circular cutout and are designed to be used with a circle inset piece (see below).
@@ -21,39 +25,37 @@ They are modified versions of Devon Jones original work.
 
 The circle insets are designed as circular pieces that fit well into a specially designed floor tile with circular cutout.
 
-- Pentagram - rough stone (2x2 inch)
+- Circle - smooth (2x2 inch)
 
-[![Pentagram - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_rough_stone.inch.2x2.stl)
-
-- Pentagram - smooth stone (2x2 inch)
-
-[![Pentagram - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_smooth_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_smooth_stone.inch.2x2.stl)
-
-- Pentagram - smooth (2x2 inch)
-
-[![Pentagram - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_smooth.inch.2x2.stl)
-
-- Magic Circle 1 - rough stone (2x2 inch)
-
-[![Magic Circle 1 - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_magic1_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_rough_stone.inch.2x2.stl)
-
-- Magic Circle 1 - smooth (2x2 inch)
-
-[![Magic Circle 1 - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_magic1_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_smooth.inch.2x2.stl)
-
-- Magic Circle 2 - rough stone (2x2 inch)
-
-- Mosaic - smooth stone (2x2 inch)
-
-[![Mosaic - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_mosaic_smooth_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_mosaic_smooth_stone.inch.2x2.stl)
+[![Circle - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_smooth.inch.2x2.stl)
 
 - Circle - rough stone (2x2 inch)
 
 [![Circle - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_rough_stone.inch.2x2.stl)
 
-- Circle - smooth (2x2 inch)
+- Mosaic - smooth stone (2x2 inch)
 
-[![Circle - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_smooth.inch.2x2.stl)
+[![Mosaic - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_mosaic_smooth_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_mosaic_smooth_stone.inch.2x2.stl)
+
+- Pentagram - smooth (2x2 inch)
+
+[![Pentagram - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_smooth.inch.2x2.stl)
+
+- Pentagram - smooth stone (2x2 inch)
+
+[![Pentagram - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_smooth_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_smooth_stone.inch.2x2.stl)
+
+- Pentagram - rough stone (2x2 inch)
+
+[![Pentagram - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_pentagram_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_pentagram_rough_stone.inch.2x2.stl)
+
+- Magic Circle 1 - smooth (2x2 inch) [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) license
+
+[![Magic Circle 1 - Smooth 2x2 inch](circle-insets/images/circle_inset.circle_magic1_smooth.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_smooth.inch.2x2.stl)
+
+- Magic Circle 1 - rough stone (2x2 inch) [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) license
+
+[![Magic Circle 1 - Rough Stone 2x2 inch](circle-insets/images/circle_inset.circle_magic1_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_magic1_rough_stone.inch.2x2.stl)
 
 
 The magic circles are based on the excellent work of [Propnomicon](http://propnomicon.blogspot.com/):
@@ -67,7 +69,7 @@ The following pieces are hollowed out versions of Devon Jones original work.
 
 They are designed to be printed directly on the flat bed of a resin printer.
 
-A little drain hole at the bottom prevents suction problems and avoids that the print is ends up filled with liquid resin.
+A little drain hole at the bottom prevents suction problems and avoids that the print ends up filled with liquid resin.
 
 - Dungeon Stone - Hollow Wall 2x2 inch
 

@@ -10,7 +10,7 @@ do
 
   pushd "$sourceDir" >/dev/null
 
-  echo "import(\"$sourceFile\", convexity=3);" >"$sourceFile.scad"
+  echo "import(\"$sourceFile\");" >"$sourceFile.scad"
   openscad -q -o "$sourceFile.png" --imgsize 512,512 --colorscheme Tomorrow "$sourceFile.scad"
   magick mogrify -geometry 256x256 "$sourceFile.png"
   rm "$sourceFile.scad"

@@ -135,22 +135,22 @@ A little drain hole at the bottom prevents suction problems and avoids that the 
 - Dungeon Stone - Hollow Wall 2x2 inch
 
 [![Dungeon Stone - Hollow Wall 2x2 inch](hollow-standard-tiles/images/dungeon_stone_wall.wall.inch.2x.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_wall.wall.inch.2x.hollow.stl)
-![Cut in Half - Dungeon Stone - Wall 2x2 inch](hollow-standard-tiles/images/cut_in_half.dungeon_stone_wall.wall.inch.2x.hollow.stl.png)
+![Cut in Half - Dungeon Stone - Wall 2x2 inch](internal/images/cut_in_half.dungeon_stone_wall.wall.inch.2x.hollow.stl.png)
 
 - Dungeon Stone - Hollow Corner Wall 2x2 inch
 
 [![Dungeon Stone - Hollow Corner Wall 2x2 inch](hollow-standard-tiles/images/dungeon_stone.corner.wall.inch.2x2.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone.corner.wall.inch.2x2.hollow.stl)
-![Cut in Half - Dungeon Stone - Hollow Corner Wall 2x2 inch](hollow-standard-tiles/images/cut_in_half.dungeon_stone.corner.wall.inch.2x2.hollow.stl.png)
+![Cut in Half - Dungeon Stone - Hollow Corner Wall 2x2 inch](internal/images/cut_in_half.dungeon_stone.corner.wall.inch.2x2.hollow.stl.png)
 
 - Dungeon Stone - Hollow Round Pillar 2x2 inch
 
 [![Dungeon Stone - Hollow Round Pillar 1x1 inch](hollow-standard-tiles/images/dungeon_stone_full_pillar.inch.1x1.round.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_full_pillar.inch.1x1.round.hollow.stl)
-![Cut in Half - Dungeon Stone - Hollow Round Pillar 1x1 inch](hollow-standard-tiles/images/cut_in_half.dungeon_stone_full_pillar.inch.1x1.round.hollow.stl.png)
+![Cut in Half - Dungeon Stone - Hollow Round Pillar 1x1 inch](internal/images/cut_in_half.dungeon_stone_full_pillar.inch.1x1.round.hollow.stl.png)
 
 - Dungeon Stone - Hollow Square Pillar 1x1 inch
 
 [![Dungeon Stone - Hollow Square Pillar 1x1 inch](hollow-standard-tiles/images/dungeon_stone_full_pillar.inch.1x1.square.hollow.stl.png)](hollow-standard-tiles/stl/dungeon_stone_full_pillar.inch.1x1.square.hollow.stl)
-![Cut in Half - Dungeon Stone - Hollow Round Pillar 1x1 inch](hollow-standard-tiles/images/cut_in_half.dungeon_stone_full_pillar.inch.1x1.square.hollow.stl.png)
+![Cut in Half - Dungeon Stone - Hollow Round Pillar 1x1 inch](internal/images/cut_in_half.dungeon_stone_full_pillar.inch.1x1.square.hollow.stl.png)
 
 
 

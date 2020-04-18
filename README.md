@@ -73,6 +73,10 @@ The circle insets are designed as circular pieces that fit well into a specially
 
 [![Manhole with metal bars - Smooth Stone 2x2 inch](circle-insets/images/circle_inset.manhole_bars_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.manhole_bars_rough_stone.inch.2x2.stl)
 
+- Cage - Rough Stone and metal bars (2x2 inch)
+
+[![Cage - Rough Stone and metal bars 2x2 inch](circle-insets/images/circle_inset.circle_cage_rough_stone.inch.2x2.stl.png)](circle-insets/stl/circle_inset.circle_cage_rough_stone.inch.2x2.stl)
+
 
 
 The magic circles are based on the excellent work of [Propnomicon](http://propnomicon.blogspot.com/):

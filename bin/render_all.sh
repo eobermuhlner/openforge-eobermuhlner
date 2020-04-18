@@ -17,7 +17,26 @@ do
 
   if [ -d  "$imageDir" ]
   then
-    mv "$sourceFile.png" "$imageDir"
+    if [ -f "$imageDir/$sourceFile.png" ]
+    then
+      if magick compare -metric ae "$sourceFile.png" "$imageDir/$sourceFile.png" difference.png 2>/dev/null
+      then
+        echo "Same image already exists - deleting it"
+        rm "$sourceFile.png"
+      else
+        echo "Different image already exists - moving it over"
+        mv "$sourceFile.png" "$imageDir"
+      fi
+
+      if [ -f difference.png ]
+      then
+
+        rm difference.png
+      fi
+    else
+      echo "No image exists - moving it"
+      mv "$sourceFile.png" "$imageDir"
+    fi
   fi
 
   popd >/dev/null

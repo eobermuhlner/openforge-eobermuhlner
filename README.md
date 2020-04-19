@@ -8,7 +8,9 @@ Extensions to the OpenForge tile set from Devon Jones.
 
 Most of the work here is under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 In some cases a different license was used because it builds open work under a different original license.
-These exceptions are always linked to the specific license. 
+These exceptions are always linked to the specific license.
+
+The [internal README](internal/README.md) explains in detail how the files where created.
 
 ### Floor Tiles with Circle Cutout
 

@@ -2,6 +2,11 @@
 
 imageDir="../images"
 
+if which magick >/dev/null
+then
+  has_magick=true
+fi
+
 for f in `find . -name *.stl`
 do
   echo "Rendering $f"
@@ -12,7 +17,10 @@ do
 
   echo "import(\"$sourceFile\");" >"$sourceFile.scad"
   openscad -q -o "$sourceFile.png" --imgsize 512,512 --colorscheme Tomorrow "$sourceFile.scad"
-  magick mogrify -geometry 256x256 "$sourceFile.png"
+  if [ $has_magick = true ]
+  then
+    magick mogrify -geometry 256x256 "$sourceFile.png"
+  fi
   rm "$sourceFile.scad"
 
   if [ -d  "$imageDir" ]

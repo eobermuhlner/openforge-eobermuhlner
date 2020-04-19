@@ -1,19 +1,46 @@
 #!/bin/sh
 
+if which stltools >/dev/null
+then
+  has_stltools=true
+fi
+
+resize_stl()
+{
+  resizeX=$1
+  resizeY=$2
+  resizeZ=$3
+
+  inputFile="$4"
+  outputFile="$5"
+
+  echo "Resizing $inputFile to $resizeX $resizeY $resizeZ -> $outputFile"
+  echo "scale([$resizeX,$resizeY,$resizeZ]) import(\"$inputFile\");" >"$inputFile.scad"
+  openscad -q -o "$outputFile" "$inputFile.scad"
+  rm "$inputFile.scad"
+
+  if [ $has_stltools = true ]
+  then
+    stltools binary "$outputFile" "$outputFile.binary.stl"
+    rm "$outputFile"
+    mv "$outputFile.binary.stl" "$outputFile"
+  fi
+}
+
 resize_2x2_to_1x1() {
-  ../../bin/resize.sh 0.5 0.5 1.0 $1.2x2.stl $1.1x1.stl
+  resize_stl 0.5 0.5 1.0 $1.2x2.stl $1.1x1.stl
 }
 
 resize_2x2_to_3x3() {
-  ../../bin/resize.sh 1.5 1.5 1.0 $1.2x2.stl $1.3x3.stl
+  resize_stl 1.5 1.5 1.0 $1.2x2.stl $1.3x3.stl
 }
 
 resize_2x2_to_4x4() {
-  ../../bin/resize.sh 2.0 2.0 1.0 $1.2x2.stl $1.4x4.stl
+  resize_stl 2.0 2.0 1.0 $1.2x2.stl $1.4x4.stl
 }
 
 resize_2x2_to_1x1_half() {
-  ../../bin/resize.sh 0.5 0.5 0.5 $1.2x2.stl $1.1x1.stl
+  resize_stl 0.5 0.5 0.5 $1.2x2.stl $1.1x1.stl
 }
 
 resize() {
@@ -21,6 +48,8 @@ resize() {
   resize_2x2_to_3x3 $1
   resize_2x2_to_4x4 $1
 }
+
+pushd circle-insets/stl
 
 resize_2x2_to_1x1_half circle_inset.circle_cage_rough_stone.inch
 resize_2x2_to_3x3 circle_inset.circle_cage_rough_stone.inch
@@ -38,3 +67,4 @@ resize circle_inset.circle_pentagram_smooth_stone.inch
 resize circle_inset.circle_rough_stone.inch
 resize circle_inset.circle_smooth.inch
 
+popd

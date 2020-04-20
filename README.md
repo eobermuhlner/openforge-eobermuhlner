@@ -1,10 +1,8 @@
 # openforge-eobermuhlner
 
 Extensions to the OpenForge tile set from Devon Jones.
-
-[devonjones/OpenForge](https://github.com/devonjones/OpenForge)
-
-[devonjones/openforge-tutorials](https://github.com/devonjones/openforge-tutorials)
+- [Masterwork Tools](http://masterwork-tools.com/)
+- [devonjones/openforge-tutorials](https://github.com/devonjones/openforge-tutorials)
 
 Most of the work here is under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 In some cases a different license was used because it builds open work under a different original license.

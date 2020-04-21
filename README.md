@@ -28,7 +28,15 @@ They are modified versions of Devon Jones original work.
 
 - Dungeon Stone 3x3 Tile for 3x3 inch circle
 
-[![Dungeon Stone 3x3 inch Tile for 2x2 inch circle](floor-circle-cutouts/images/dungeon_stone.circle_cutout.3x3.floor.inch.3x3.stl.png)](floor-circle-cutouts/stl/dungeon_stone.circle_cutout.3x3.floor.inch.3x3.stl)
+[![Dungeon Stone 3x3 inch Tile for 3x3 inch circle](floor-circle-cutouts/images/dungeon_stone.circle_cutout.3x3.floor.inch.3x3.stl.png)](floor-circle-cutouts/stl/dungeon_stone.circle_cutout.3x3.floor.inch.3x3.stl)
+
+- Dungeon Stone 3x3 Tile for 3x3 inch circle
+
+[![Dungeon Stone 4x4 inch Tile for 3x3 inch circle](floor-circle-cutouts/images/dungeon_stone.circle_cutout.3x3.floor.inch.4x4.stl.png)](floor-circle-cutouts/stl/dungeon_stone.circle_cutout.3x3.floor.inch.4x4.stl)
+
+- Dungeon Stone 4x4 Tile for 4x4 inch circle
+
+[![Dungeon Stone 4x4 inch Tile for 4x4 inch circle](floor-circle-cutouts/images/dungeon_stone.circle_cutout.4x4.floor.inch.4x4.stl.png)](floor-circle-cutouts/stl/dungeon_stone.circle_cutout.4x4.floor.inch.4x4.stl)
 
 
 ## Circle Insets

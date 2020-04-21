@@ -14,6 +14,8 @@ The [internal README](internal/README.md) explains in detail how the files where
 
 These floor tiles have a circular cutout and are designed to be used with a circle inset piece (see below).
 
+![Examples for Circle Cutouts and Insets](internal/images/example1.png)
+
 They are modified versions of Devon Jones original work.
 
 - Dungeon Stone 2x2 Tile for 2x2 inch circle

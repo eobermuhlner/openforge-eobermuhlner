@@ -127,6 +127,13 @@ The circle insets are designed as circular pieces that fit well into a specially
 [![Cage - Rough Stone and metal bars 3x3 inch](circle-insets/images/circle_inset.circle_cage_rough_stone.inch.3x3.stl.png)](circle-insets/stl/circle_inset.circle_cage_rough_stone.inch.3x3.stl)
 [![Cage - Rough Stone and metal bars 4x4 inch](circle-insets/images/circle_inset.circle_cage_rough_stone.inch.4x4.stl.png)](circle-insets/stl/circle_inset.circle_cage_rough_stone.inch.4x4.stl)
 
+- Bathtub - Wood (1x1, 2x2, 3x3, 4x4 inch)
+
+[![Bathtub - Wood 1x1 inch](circle-insets/images/circle_inset.bathtub_wood.inch.1x1.stl.png)](circle-insets/stl/circle_inset.bathtub_wood.inch.1x1.stl)
+[![Bathtub - Wood 2x2 inch](circle-insets/images/circle_inset.bathtub_wood.inch.2x2.stl.png)](circle-insets/stl/circle_inset.bathtub_wood.inch.2x2.stl)
+[![Bathtub - Wood 3x3 inch](circle-insets/images/circle_inset.bathtub_wood.inch.3x3.stl.png)](circle-insets/stl/circle_inset.bathtub_wood.inch.3x3.stl)
+[![Bathtub - Wood 4x4 inch](circle-insets/images/circle_inset.bathtub_wood.inch.4x4.stl.png)](circle-insets/stl/circle_inset.bathtub_wood.inch.4x4.stl)
+
 
 
 The magic circles are based on the excellent work of [Propnomicon](http://propnomicon.blogspot.com/):

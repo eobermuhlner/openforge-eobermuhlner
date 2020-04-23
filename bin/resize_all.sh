@@ -51,16 +51,17 @@ resize_from_2x2() {
 
 pushd circle-insets/stl
 
-resize_from_2x2 circle_inset.circle_magic1_rough_stone.inch
-resize_from_2x2 circle_inset.circle_magic2_rough_stone.inch
-resize_from_2x2 circle_inset.circle_magic1_smooth.inch
-resize_from_2x2 circle_inset.circle_magic2_rough_stone.inch
-resize_from_2x2 circle_inset.circle_magic2_smooth.inch
-resize_from_2x2 circle_inset.circle_mosaic_smooth_stone.inch
-resize_from_2x2 circle_inset.circle_pentagram_rough_stone.inch
-resize_from_2x2 circle_inset.circle_pentagram_smooth.inch
-resize_from_2x2 circle_inset.circle_pentagram_smooth_stone.inch
-resize_from_2x2 circle_inset.circle_rough_stone.inch
-resize_from_2x2 circle_inset.circle_smooth.inch
+#resize_from_2x2 circle_inset.circle_magic1_rough_stone.inch
+#resize_from_2x2 circle_inset.circle_magic2_rough_stone.inch
+#resize_from_2x2 circle_inset.circle_magic1_smooth.inch
+#resize_from_2x2 circle_inset.circle_magic2_rough_stone.inch
+#resize_from_2x2 circle_inset.circle_magic2_smooth.inch
+#resize_from_2x2 circle_inset.circle_mosaic_smooth_stone.inch
+#resize_from_2x2 circle_inset.circle_pentagram_rough_stone.inch
+#resize_from_2x2 circle_inset.circle_pentagram_smooth.inch
+#resize_from_2x2 circle_inset.circle_pentagram_smooth_stone.inch
+#resize_from_2x2 circle_inset.circle_rough_stone.inch
+#resize_from_2x2 circle_inset.circle_smooth.inch
+resize_from_2x2 circle_inset.bathtub_wood.inch
 
 popd
